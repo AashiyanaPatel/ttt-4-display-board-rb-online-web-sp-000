@@ -19,7 +19,7 @@ board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
 puts "Turn 3"
-board = ["X", "X", "X", "O", "X", "O", "X", "O", "X"]
+board = ["X", "X", "X", "O", "X","O", "X", "O", "X"]
 display_board(board)
 
 puts "Turn 4"
