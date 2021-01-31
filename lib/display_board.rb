@@ -18,14 +18,14 @@ puts "Turn 2"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 1"
+puts "Turn 3"
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 1"
+puts "Turn 4"
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 1"
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+puts "Turn 5"
+board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 display_board(board)
