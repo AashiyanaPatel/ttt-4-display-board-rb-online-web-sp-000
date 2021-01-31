@@ -18,7 +18,7 @@ puts "Turn 2"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 3"
+puts "Turn 3 X wins"
 board = ["X", "X", "X", "O", "X", "O", "X", "O", "X"]
 display_board(board)
 
