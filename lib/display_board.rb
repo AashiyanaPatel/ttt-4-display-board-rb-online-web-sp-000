@@ -18,19 +18,8 @@ puts "Turn 2"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 3 X wins"
+puts "Turn 3"
 board = ["X", "X", "X", "O", "X", "O", "X", "O", "X"]
 display_board(board)
 
-puts "Turn 4"
-board = ["X", "X", "O", "X", "O", "X", "O", "O", "O"]
-display_board(board)
-
-puts "Turn 5"
-board = ["X", "O", "X", "O", "X", "O", "O", "X", "X"]
-display_board(board)
-
-puts "Turn 6"
-board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board(board)
 
