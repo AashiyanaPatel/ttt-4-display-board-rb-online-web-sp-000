@@ -10,5 +10,12 @@ puts "Tic Tac Toe Board"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
+puts "Turn 1"
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
+
+puts "Turn 2"
+board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
 
 
