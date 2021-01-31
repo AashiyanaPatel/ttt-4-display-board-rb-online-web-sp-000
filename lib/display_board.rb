@@ -13,6 +13,8 @@ display_board(board)
 puts "Turn 1"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[1] = "X"
+board[0] = "X"
+board[2] = "X"
 display_board(board)
 
 puts "Turn 2"
