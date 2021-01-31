@@ -9,14 +9,12 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
-puts "Turn 1"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[1] = "X"
 board[0] = "X"
 board[2] = "X"
 display_board(board)
 
-puts "Turn 2"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[0] = "O"
 board[4] = "O"
@@ -24,7 +22,6 @@ board[8] = "O"
 
 display_board(board)
 
-puts "Turn 3"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[6] = "X"
 board[7] = "X"
