@@ -6,6 +6,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} |  #{board[8]} "
 end
 
+puts "Tic Tac Toe Board"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
