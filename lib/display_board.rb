@@ -17,10 +17,12 @@ display_board(board)
 
 puts "Turn 2"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
+
 display_board(board)
 
 puts "Turn 3"
 board = ["X", "X", "X", "O", "X", "O", "X", "O", "X"]
+
 display_board(board)
 
 
