@@ -9,24 +9,5 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board[1] = "X"
-board[0] = "X"
-board[2] = "X"
-display_board(board)
-
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board[0] = "O"
-board[4] = "O"
-board[8] = "O"
-
-display_board(board)
-
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board[6] = "X"
-board[7] = "X"
-board[8] = "X"
-
-display_board(board)
 
 
